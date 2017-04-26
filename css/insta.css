@@ -7,9 +7,11 @@ h1 {
   color: #bc2a8d;
   text-align: left;
   font-size: 62px;
-
 }
 
+img {
+  max-width: 100%;
+}
 
 h3 {
   font-family: arial, sans-serif;
