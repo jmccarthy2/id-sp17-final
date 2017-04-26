@@ -1,2 +1,4 @@
 # id-sp17-final
-final website design Jackie McCarthy Hannah Avery
+Interactive Design Final
+Jackie McCarthy Hannah Avery
+"The Impact of Social Media"
