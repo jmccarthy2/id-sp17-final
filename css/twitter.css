@@ -2,6 +2,10 @@ body {
   background-color: #00aced;
 }
 
+img {
+  max-width: 100%;
+}
+
 h1 {
   font-family: arial, sans-serif;
   color: #fff;
