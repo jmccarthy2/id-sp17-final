@@ -73,5 +73,24 @@ padding-bottom: 20px;
     padding-top: 32px;
     padding-right: 65px;
   }
+  nav {
+    font-family: Arial;
+    font-size: 1.3em;
+  }
+
+  a:link    {
+  text-decoration:  none;
+  font-weight:      bold;
+  background-color: #3b5998;
+  color: #fff;
+
+  }
+
+  a:visited {
+  text-decoration:  none;
+  font-weight:      bold;
+  background-color: #3b5998;
+  color:           #fff;
+  }
 
 }
