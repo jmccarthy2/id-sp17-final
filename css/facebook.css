@@ -9,6 +9,10 @@ h1 {
   font-size: 62px;
 }
 
+img {
+  max-width: 100%;
+}
+
 h3 {
   font-family: arial, sans-serif;
   color: #fff;
